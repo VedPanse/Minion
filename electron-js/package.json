@@ -3,10 +3,12 @@
     "version": "1.0.0",
     "description": "Do basic work",
     "main": "main.js",
+    "type": "module",
     "scripts": {
-        "test": "echo \"Error: no test specified \" && exit 1",
-        "start": "electron ."
+      "test": "echo \"Error: no test specified \" && exit 1",
+      "start": "electron ."
     },
     "author": "Ved Panse",
     "license": "ISC"
-}
+  }
+  
